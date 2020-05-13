@@ -1,5 +1,3 @@
-
-
 // ============Model=============
 const booksData = [{
     'title' : 'JavaScript',
@@ -138,7 +136,3 @@ class BookCtrl {
 const bookApp = new BookCtrl(bookView)
 
 bookApp.init();
-
-
-
-
