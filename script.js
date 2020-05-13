@@ -37,5 +37,3 @@ const bookCategory = document.querySelector('[data-category]')
 const book1 = new Book("JavaScript", "John", "Programming")
 book1.setTitle("HTML")
 console.log(book1.auther)
-
-
